@@ -1,14 +1,20 @@
-<p align="left">
-  <img src="https://vectorseek.com/wp-content/uploads/2023/11/TeraBox-Logo-Vector.svg-.png" alt="Player" width="250">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51fcce05-45c3-4c8e-a643-5b864328fa45" alt="Player" width="150">
 </p>
 
-# Terabox Video Player & Downloader
+<h1 align="center">Terabox Video Player & Downloader (SPlayer)</h1>
 
-A simple n easy web player for Terabox videos. Paste your Terabox video link, and enjoy seamless playback without requiring the Terabox app or premium account. Privacy and usability are top priorities for personal and friend's use.
+<p align="center">
+  A simple and easy-to-use web player for Terabox videos. Paste your Terabox video link and enjoy seamless playback without requiring the Terabox app or a premium account. Designed with privacy and usability in mind, perfect for personal use and sharing with friends.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85fb996d-7c49-455b-b567-90c0dd78ae5b" alt="Website New UI" width="750">
+</p>
 
 ### Features:
 - **Stream Videos:** Play any video directly from Terabox.
-- **Download Videos:** Easily download your favorite videos [🔜].
+- **Download Videos:** Easily download your favorite videos [🔜]... (maybe)
 - **Controls:** Skip 10s, adjust volume, speed (up to 2x), and more.
 - **Responsive UI:** Designed for all screen sizes.
 
