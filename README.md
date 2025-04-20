@@ -13,10 +13,23 @@
 </p>
 
 ### Features:
-- **Stream Videos:** Play any video directly from Terabox.
+- **Stream Videos:** Play any video directly from Terabox
+- **Embed Videos:** Share videos on other sites using iframe embed codes
 - **Download Videos:** Easily download your favorite videos [🔜]... (maybe)
-- **Controls:** Skip 10s, adjust volume, speed (up to 2x), and more.
-- **Responsive UI:** Designed for all screen sizes.
+- **Controls:** Skip 10s, adjust volume, speed (up to 2x), and more
+- **Responsive UI:** Designed for all screen sizes
+
+### New Embed Feature
+Now you can generate embed codes for any Terabox video:
+1. Paste your video link
+2. Click "Play"
+3. Copy the embed code that appears
+4. Paste it on your website/blog
+
+Example embed code:
+```html
+<iframe src="https://sannjay.tech/TeraBox/player.html?url=YOUR_TERABOX_URL" width="700" height="400" frameborder="0" allowfullscreen></iframe>
+```
 
 > [!Warning]
 > For personal and friend's use. If you have suggestions or find any issues, create a pull request or submit an issue in this repository.
